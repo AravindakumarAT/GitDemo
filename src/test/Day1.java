@@ -12,6 +12,7 @@ public class Day1
 	public void Test1()
 	{
 		System.out.println("Hello Day1 Test1");
+		System.out.println("GitDemo Code will be updated"); //Updated by Y
 	}
 	@Test
 	public void Test2()
