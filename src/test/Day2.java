@@ -10,11 +10,18 @@ public class Day2
 	{
 		System.out.println("Day2 Hello Test3");
 		System.out.println("GitX Code will be updated"); //Updated by X
+		
 	}
 	@BeforeTest
 	public void preRequistie()
 	{
 		System.out.println("Day2 PreRequistie");
 	}
+	@Test
+	public void TestArchiect()
+	{
+		System.out.println("GitY Code will be updated"); //Updated by Y and in Develop Branch
+	}
+	
 
 }

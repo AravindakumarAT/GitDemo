@@ -10,6 +10,12 @@ import org.testng.annotations.Test;
 
 public class Day3 
 {
+	
+	@Test
+	public void TestArchiect()
+	{
+		System.out.println("GitY Code will be updated"); //Updated by Y and in Develop Branch
+	}
 	@BeforeClass
 	public void beforeClass()
 	{
