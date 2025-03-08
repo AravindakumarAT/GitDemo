@@ -22,6 +22,11 @@ public class Day2
 	{
 		System.out.println("GitY Code will be updated"); //Updated by Y and in Develop Branch
 	}
+	@Test
+	public void TestArchiectAmerican()
+	{
+		System.out.println("GitX Code will be updated"); //Updated by X and in Develop Branch
+	}
 	
 
 }
